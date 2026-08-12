@@ -2,14 +2,15 @@
   "name": "周可可分单助手",
   "short_name": "可可分单",
   "description": "快闪店多人购物、游戏币与凑单方案计算器",
-  "start_url": "/",
+  "start_url": "/cocogacha.github.io/",
+  "scope": "/cocogacha.github.io/",
   "display": "standalone",
   "background_color": "#f4f3f8",
   "theme_color": "#5f5b9d",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/cocogacha.github.io/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
